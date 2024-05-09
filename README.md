@@ -1,2 +1,2 @@
 # MS-Excel-Project-Zomato-Restaurant-Analysis
-I have worked on this project during my certification program with Newton School. The dataset is of Zomato Restaurant. The Problem statement is to come up with strategies/suggestions about opening newer restaurants.
+During my certification program at Newton School, I was involved in a project focused on analyzing data from Zomato restaurants. The objective was to devise strategies and recommendations for opening new restaurants based on the insights gathered from the dataset.
